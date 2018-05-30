@@ -17,4 +17,4 @@
 1. Mix the flower, sugar and butter in a food processor until clumpy.
 1. Add the oats and give another quick blast.  Not too much as we don't want to powder the oats.
 1. Put the filling in a backing dish and cover with the topping.
-1. Put in an oven at about 180�C for about 20 minutes, then serve with custard.
+1. Put in an oven at about 180C for about 20 minutes, then serve with custard.
