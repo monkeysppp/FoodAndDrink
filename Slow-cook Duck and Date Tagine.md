@@ -18,7 +18,7 @@
 
 ## Directions
 1. Set the slow cooker on Low.
-1. Heat the Sunflower oil in a frying pan and brown the duck legs until golden, then place in the slow cooker.
+1. Heat the Sunflower oil in a frying pan and brown the duck legs until golden.  Also fry the skin to generate some fat.  When browned, place the legs in the slow cooker.
 1. While you're browning the duck, put the Onion, Garlic, Chilli, Ginger, Spices and preserved lemon in a food processor
    and blitz to a chunky paste.
 1. Tip the paste into the hot pan with the duck fat and cook for 5 mins to soften.
