@@ -19,7 +19,7 @@
 | Hobgoblin                 | ★★★★☆ | Creamy and rich/smooth |
 | Hobgoblin Gold            | ★★★★☆ | Not sure how to describe the taste but it's really nice |
 | Hopping Hare              | ★★★☆☆ | Hang on, that's a lager |
-| IPA Gold                  | ★★★☆☆ | Like the most awesome ale, but with the awesome removed leaving just the echo |
+| IPA Gold                  | ★★★☆☆ | Like the most awesome ale, but with the "awesome" removed, leaving just the echo |
 | King Goblin               | ★★★☆☆ | Fruity, nice but nothing special |
 | Newcastle Brown           | ★★★☆☆ | Kinda bland ale |
 | Old Peculiar              | ★★★★★ | Jesus that's smooth!  It's what you wish Guinness was |
