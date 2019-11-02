@@ -1,8 +1,7 @@
 # Beers
 
-| Rating | Beer | Review |
+| Beer | Rating | Review |
 | --- | --- | --- |
-| 5*  | Rattler Pear Cider | Fresh and clean; sharp but not tarte |
-| 4*  | | |
-| 4*  | Old Rosie (cloudy) | Classic cider.  Dryish |
-| 3*  | Rattler Berry Cider | Lacking flavour, quite tarte |
+| Old Rosie (cloudy)  | 4*  | Classic cider.  Dryish |
+| Rattler Berry Cider | 3*  | Lacking flavour, quite tarte |
+| Rattler Pear Cider  | 5*  | Fresh and clean; sharp but not tarte |

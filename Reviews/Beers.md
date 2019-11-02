@@ -1,10 +1,7 @@
 # Beers
 
-| Rating | Beer | Review |
+| Beer | Rating | Revie |
 | --- | --- | --- |
-| 5*  | | |
-| 5*  | | |
-| 4*  | | |
-| 4*  | Wiper & True (milkl stout) | Definitely a milk stout, but a bit burnt |
-| 3*  | Guinness Rye Ale | Variable, gassy, acrid |
-| 3*  | Reinbacher Weissbier| Both flat and bubbly!?  Tastes like Hoegaarden |
+| Guinness Rye Ale          | 3*  | Variable, gassy, acrid |
+| Reinbacher Weissbier      | 3*  | Both flat and bubbly!?  Tastes like Hoegaarden |
+| Wiper & True (milk stout) | 4*  | Definitely a milk stout, but a bit burnt |
