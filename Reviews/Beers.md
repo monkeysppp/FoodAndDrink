@@ -15,7 +15,7 @@
 | Fuller's ESB              | ★★★★☆ | A yardstick for a classic ale |
 | Furtsy Ferret             | ★★★☆☆ | Malty and pleasant, but not much there |
 | Guinness Foreign Extra    | ★★★★☆ | Like Guinness but fruity |
-| Guinness Rye Ale          | ★★★☆☆ | Variable, gassy, acrid |
+| Guinness Rye Ale          | ★★☆☆☆/★★★★☆ | So variable.  When it's good it's smooth and creamy, but when it's bad it's gassy and acrid |
 | Hobgoblin                 | ★★★★☆ | Creamy and rich/smooth |
 | Hobgoblin Gold            | ★★★★☆ | Not sure how to describe the taste but it's really nice |
 | Hopping Hare              | ★★★☆☆ | Hang on, that's a lager |
