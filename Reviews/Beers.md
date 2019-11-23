@@ -8,16 +8,19 @@
 | Adnam's Ghost Ship        | ★★★★☆ | Kinda fruity, kinda ale-y, rather nice |
 | Bishops Fingers           | ★★★★☆ | Kinda fruity and inoffensive |
 | Black Sheep               | ★★★★☆ | Caramelly and malty |
+| The Blandford Fly         | ★★★☆☆ | Kinday fruity and meaty eith a bit of spice.  It actually tastes like a wheat beer to me |
 | The Cranborne Poacher     | ★★★★☆ | Classic stouty ale |
 | Doombar                   | ★★★★★ | A bit like a wheat beer shandy; not at all unpleasant |
 | Duvel                     | ★★★★★ | Very nice, smooth and fruity |
 | Fuller's 1845             | ★★★☆☆ | Pretty pretty pretty good |
 | Fuller's ESB              | ★★★★☆ | A yardstick for a classic ale |
+| Fuller's Honey  Dew       | ★★★☆☆ | A perfect balance between a lager and an ale, although why anyone would want that I'm not sure |
 | Furtsy Ferret             | ★★★☆☆ | Malty and pleasant, but not much there |
 | Guinness Foreign Extra    | ★★★★☆ | Like Guinness but fruity |
 | Guinness Rye Ale          | ★★☆☆☆/★★★★☆ | So variable.  When it's good it's smooth and creamy, but when it's bad it's gassy and acrid |
 | Hobgoblin                 | ★★★★☆ | Creamy and rich/smooth |
 | Hobgoblin Gold            | ★★★★☆ | Not sure how to describe the taste but it's really nice |
+| Hogs Back TEA             | ★★★☆☆ | Just a generic ale |
 | Hopping Hare              | ★★★☆☆ | Hang on, that's a lager |
 | IPA Gold                  | ★★★☆☆ | Like the most awesome ale, but with the "awesome" removed, leaving just the echo |
 | King Goblin               | ★★★☆☆ | Fruity, nice but nothing special |
