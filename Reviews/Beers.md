@@ -17,6 +17,7 @@
 | Fuller's Honey  Dew       | ★★★☆☆ | A perfect balance between a lager and an ale, although why anyone would want that I'm not sure |
 | Furtsy Ferret             | ★★★☆☆ | Malty and pleasant, but not much there |
 | Guinness Foreign Extra    | ★★★★☆ | Like Guinness but fruity |
+| Guinness Original.        | ★★★☆☆ | Like fizzy Marmite juice without the tang |
 | Guinness Rye Ale          | ★★☆☆☆/★★★★☆ | So variable.  When it's good it's smooth and creamy, but when it's bad it's gassy and acrid |
 | Hobgoblin                 | ★★★★☆ | Creamy and rich/smooth |
 | Hobgoblin Gold            | ★★★★☆ | Not sure how to describe the taste but it's really nice |
