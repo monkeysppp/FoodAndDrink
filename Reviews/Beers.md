@@ -26,7 +26,9 @@
 | IPA Gold                  | ★★★☆☆ | Like the most awesome ale, but with the "awesome" removed, leaving just the echo |
 | King Goblin               | ★★★☆☆ | Fruity, nice but nothing special |
 | Newcastle Brown           | ★★★☆☆ | Kinda bland ale |
+| Old Crafty Hen            | ★★★☆☆ | Like Old Speckled Hen but with a hint of the wooden floor in an old monastery |
 | Old Peculiar              | ★★★★★ | Jesus that's smooth!  It's what you wish Guinness was |
+| Old Speckled Hen          | ★★★★☆ | It's a classic |
 | Old Tom                   | ★★★☆☆ | Fruity and Malty, just a bit uninspiring |
 | Reinbacher Weissbier      | ★★★☆☆ | Both flat and bubbly!?  Tastes like Hoegaarden |
 | Ringwood Forty Niner      | ★★★☆☆ | 's alright. Kinda forgettable but pleasantly "ale" enough |
