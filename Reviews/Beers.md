@@ -9,6 +9,7 @@
 | Bishops Fingers           | ★★★★☆ | Kinda fruity and inoffensive |
 | Black Sheep               | ★★★★☆ | Caramelly and malty |
 | The Blandford Fly         | ★★★☆☆ | Kinday fruity and meaty eith a bit of spice.  It actually tastes like a wheat beer to me |
+| Butty Bach                | ★★☆☆☆ | Yeah, it exists |
 | The Cranborne Poacher     | ★★★★☆ | Classic stouty ale |
 | Doombar                   | ★★★★★ | A bit like a wheat beer shandy; not at all unpleasant |
 | Duvel                     | ★★★★★ | Very nice, smooth and fruity |
