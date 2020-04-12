@@ -21,7 +21,7 @@
 | Guinness Original.        | ★★★☆☆ | Like fizzy Marmite juice without the tang |
 | Guinness Rye Ale          | ★★☆☆☆/★★★★☆ | So variable.  When it's good it's smooth and creamy, but when it's bad it's gassy and acrid |
 | Hobgoblin                 | ★★★★☆ | Creamy and rich/smooth |
-| Hobgoblin Gold            | ★★★★☆ | Not sure how to describe the taste but it's really nice |
+| Hobgoblin Gold            | ★★☆☆☆/★★★★☆ | Variable.  One time far too lagery, the other not sure how to describe the taste but it was really nice |
 | Hogs Back TEA             | ★★★☆☆ | Just a generic ale |
 | Hopping Hare              | ★★★☆☆ | Hang on, that's a lager |
 | IPA Gold                  | ★★★☆☆ | Like the most awesome ale, but with the "awesome" removed, leaving just the echo |
