@@ -6,6 +6,7 @@
 | Abbot Ale                 | ★★★☆☆ | Kinda generic ale but a bit off, like past its "best before" date |
 | Adnam's Broadside         | ★★★☆☆ | Yet another malty ale, only this one's tangy!? |
 | Adnam's Ghost Ship        | ★★★★☆ | Kinda fruity, kinda ale-y, rather nice |
+| Bacchus (Rasberry) Beers  | ★★★☆☆ | It's not unpleasant, just different.  It's kinda hard to explain, and then by the end you realise, it reminds you of cherry coke. |
 | Bishops Fingers           | ★★★★☆ | Kinda fruity and inoffensive |
 | Black Sheep               | ★★★★☆ | Caramelly and malty |
 | The Blandford Fly         | ★★★☆☆ | Kinday fruity and meaty eith a bit of spice.  It actually tastes like a wheat beer to me |
