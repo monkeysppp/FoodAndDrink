@@ -10,6 +10,7 @@
 | Bishops Fingers           | ★★★★☆ | Kinda fruity and inoffensive |
 | Black Sheep               | ★★★★☆ | Caramelly and malty |
 | The Blandford Fly         | ★★★☆☆ | Kinday fruity and meaty eith a bit of spice.  It actually tastes like a wheat beer to me |
+| Butty Bach                | ★★☆☆☆ | Yeah, it exists |
 | The Cranborne Poacher     | ★★★★☆ | Classic stouty ale |
 | Doombar                   | ★★★★★ | A bit like a wheat beer shandy; not at all unpleasant |
 | Duvel                     | ★★★★★ | Very nice, smooth and fruity |
@@ -19,9 +20,9 @@
 | Furtsy Ferret             | ★★★☆☆ | Malty and pleasant, but not much there |
 | Guinness Foreign Extra    | ★★★★☆ | Like Guinness but fruity |
 | Guinness Original.        | ★★★☆☆ | Like fizzy Marmite juice without the tang |
-| Guinness Rye Ale          | ★★☆☆☆/★★★★☆ | So variable.  When it's good it's smooth and creamy, but when it's bad it's gassy and acrid |
+| Guinness Rye Ale          | ★★☆☆☆/<br>★★★★☆ | So variable.  When it's good it's smooth and creamy, but when it's bad it's gassy and acrid |
 | Hobgoblin                 | ★★★★☆ | Creamy and rich/smooth |
-| Hobgoblin Gold            | ★★★★☆ | Not sure how to describe the taste but it's really nice |
+| Hobgoblin Gold            | ★★☆☆☆/<br>★★★★☆ | Variable.  One time far too lagery, the other not sure how to describe the taste but it was really nice |
 | Hogs Back TEA             | ★★★☆☆ | Just a generic ale |
 | Hopping Hare              | ★★★☆☆ | Hang on, that's a lager |
 | IPA Gold                  | ★★★☆☆ | Like the most awesome ale, but with the "awesome" removed, leaving just the echo |
