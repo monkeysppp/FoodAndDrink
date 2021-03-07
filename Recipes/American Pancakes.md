@@ -1,4 +1,4 @@
-# American Pancackes
+# American Pancakes
 
 ## Ingredients
 - 135g plain flour, sifted
