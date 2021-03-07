@@ -3,7 +3,7 @@
 ## Ingredients
 - ~300g shortcrust pastry
 - Grated zest and juice from 3 lemons
-- 100g caster suger
+- 100g caster sugar
 - 2 eggs, plus 2 more egg yokes
 - 150ml double cream
 

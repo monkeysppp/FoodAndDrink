@@ -15,7 +15,7 @@
 ## Directions
 1. Preheat the oven to 180C.
 1. Line the bottom of a well-oiled 23 x 13 x 7.5cm loaf tin with grease proof paper.
-1. Put the eggs and sugar in the bowl of the food processor and process for 2 minutes,scraping the sides down once with
+1. Put the eggs and sugar in the bowl of the food processor and process for 2 minutes, scraping the sides down once with
    a rubber spatula.
 1. Add spoonfuls of the soft butter or margarine on top of this mixture, together with the lemon zest, then pulse just
    until it disappears. The mixture should now resemble mayonnaise.
