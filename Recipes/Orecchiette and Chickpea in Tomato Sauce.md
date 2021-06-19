@@ -2,6 +2,8 @@
 https://www.theguardian.com/lifeandstyle/2018/apr/21/yotam-ottolenghi-quick-flan-fish-pie-pasta-recipes
 
 
+Serves 1
+
 ## Ingredients
 - 25ml olive oil
 - 4 garlic cloves, crushed and chopped

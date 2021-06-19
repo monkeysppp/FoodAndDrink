@@ -6,6 +6,8 @@ https://www.recipetineats.com/general-tsos-chicken/
 
 Note that you'll need the ability to deep fry it
 
+Serves 1
+
 ## Ingredients (per serving)
 
 For sauce:
