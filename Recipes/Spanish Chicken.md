@@ -1,3 +1,5 @@
+[Home](../README.md) / [Recipes](README.md)
+
 # Easy Spanish Chicken
 https://www.bbc.co.uk/food/recipes/easy_spanish_chicken_09987
 

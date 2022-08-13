@@ -1,3 +1,5 @@
+[Home](../README.md) / [Recipes](README.md)
+
 # Butter Bean and Chorizo Stew
 
 For two
@@ -18,7 +20,7 @@ For two
 1. Heat some oil and fry the onion until *properly* soft, adding water if needed to keep it from drying out.
 2. Add garlic and fry a few mins more, then add paprika, oregano, fenugreek and ground black pepper.
 3. Fry briefly with the herb/spices, then add the stock with a cup or so of water to dissolve it.
-4. Add the tomatoes, bring to the boil and simmer at least 30 min.  Taste & season.  
+4. Add the tomatoes, bring to the boil and simmer at least 30 min.  Taste & season.
 
 *At this point it can be frozen for later use (if you made more than you needed).*
 

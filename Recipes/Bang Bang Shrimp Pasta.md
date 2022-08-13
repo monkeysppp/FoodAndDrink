@@ -1,4 +1,7 @@
+[Home](../README.md) / [Recipes](README.md)
+
 # Bang Bang Shrimp Pasta
+
 https://damndelicious.net/2014/11/07/bang-bang-shrimp-pasta/
 
 ## Ingredients

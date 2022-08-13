@@ -1,3 +1,5 @@
+[Home](../README.md) / [Recipes](README.md)
+
 # Poha
 
 Adapted from https://www.indianhealthyrecipes.com/poha-recipe-kanda-batata-poha/

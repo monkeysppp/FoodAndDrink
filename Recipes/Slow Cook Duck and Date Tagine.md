@@ -1,3 +1,5 @@
+[Home](../README.md) / [Recipes](README.md)
+
 # Slow Cook Duck and Date Tagine
 
 ## Ingredients

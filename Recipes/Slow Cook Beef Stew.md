@@ -1,3 +1,5 @@
+[Home](../README.md) / [Recipes](README.md)
+
 # Slow Cook Beef Stew
 A comination of https://www.bbcgoodfood.com/recipes/slow-cooker-beef-stew and https://damndelicious.net/2016/10/07/slow-cooker-beef-stew/
 

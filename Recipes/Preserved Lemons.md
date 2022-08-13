@@ -1,3 +1,5 @@
+[Home](../README.md) / [Recipes](README.md)
+
 # Preserved Lemons
 
 ## Ingredients
