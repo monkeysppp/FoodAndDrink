@@ -1,3 +1,5 @@
+[Home](../README.md) / [Recipes](README.md)
+
 # American Pancakes
 
 ## Ingredients
