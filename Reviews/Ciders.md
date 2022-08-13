@@ -1,8 +1,8 @@
 [Home](../README.md) / [Reviews](README.md)
 
-# Beers
+# Ciders
 
-| Beer | Rating | Review |
+| Cider | Rating | Review |
 | --- | --- | --- |
 | Henney's Dry Cider           | ★★☆☆☆ | Acrid? Sour?  Well it is "dry" so what do you expect |
 | Henry Weston's Vintage Cider | ★★★★☆ | Vintage cider: classic but my god is it strong |
