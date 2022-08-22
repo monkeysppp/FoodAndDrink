@@ -4,7 +4,7 @@
 
 Collection of recipes; some from friends, some from books, some from the internet.
 
-- [American Pancakes](American%20Pancakes.md)
+- [American Pancakes](American Pancakes.md)
 - [Apple and Blackberry Crumble](Apple%20and%20Blackberry%20Crumble.md)
 - [Baked Blackberry and Lemon Curd Cheesecake](Baked%20Blackberry%20and%20Lemon%20Curd%20Cheesecake.md)
 - [Bang Bang Shrimp Pasta](Bang%20Bang%20Shrimp%20Pasta.md)
