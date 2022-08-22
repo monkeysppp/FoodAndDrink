@@ -2,7 +2,7 @@
 
 # Sticky ribs with chive dip
 
-Adapted from https://www.bbcgoodfood.com/recipes/stickiest-ever-bbq-ribs-chive-dip
+Adapted from [https://www.bbcgoodfood.com/recipes/stickiest-ever-bbq-ribs-chive-dip](https://www.bbcgoodfood.com/recipes/stickiest-ever-bbq-ribs-chive-dip)
 
 ## Ingredients
 - rack of pork ribs

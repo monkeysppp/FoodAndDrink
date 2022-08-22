@@ -2,7 +2,7 @@
 
 # Poha
 
-Adapted from https://www.indianhealthyrecipes.com/poha-recipe-kanda-batata-poha/
+Adapted from [https://www.indianhealthyrecipes.com/poha-recipe-kanda-batata-poha/](https://www.indianhealthyrecipes.com/poha-recipe-kanda-batata-poha/)
 
 Serves 1
 

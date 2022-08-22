@@ -1,7 +1,7 @@
 [Home](../README.md) / [Recipes](README.md)
 
 # Lasagne
-Recipe based on https://www.insidetherustickitchen.com/classic-beef-lasagne-spinach-pasta/
+Recipe based on [https://www.insidetherustickitchen.com/classic-beef-lasagne-spinach-pasta/](https://www.insidetherustickitchen.com/classic-beef-lasagne-spinach-pasta/)
 
 - Cooking time: almost all day
 - Serves: about 8!
