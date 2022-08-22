@@ -2,8 +2,10 @@
 
 # General Tso' Chicken
 
-[https://www.youtube.com/watch?v=v_dkYNq8G9Y(https://www.youtube.com/watch?v=v_dkYNq8G9Y)]
+[https://www.youtube.com/watch?v=v_dkYNq8G9Y](https://www.youtube.com/watch?v=v_dkYNq8G9Y)
+
 [https://www.bbcgoodfood.com/recipes/general-tsos-chicken](https://www.bbcgoodfood.com/recipes/general-tsos-chicken)
+
 [https://www.recipetineats.com/general-tsos-chicken/](https://www.recipetineats.com/general-tsos-chicken/)
 
 Note that you'll need the ability to deep fry it
