@@ -20,7 +20,7 @@ Adapted from [https://www.bbcgoodfood.com/recipes/stickiest-ever-bbq-ribs-chive-
 - 250 ml sour cream
 - 2 tbsp salad cream
 - chives, chopped
-- spring onion, chped
+- spring onion, chopped
 
 ## Directions
 1. Preheat the oven to 140C
