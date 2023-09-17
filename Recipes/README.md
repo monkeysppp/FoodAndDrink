@@ -16,6 +16,7 @@ Collection of recipes; some from friends, some from books, some from the interne
 - [Chicken in BBQ Sauce](./Chicken-in-BBQ-Sauce.md)
 - [Chimichurri Steaks](./Chimichurri-Steaks.md)
 - [General Tso Chicken](./General-Tso-Chicken.md)
+- [Grape-Juice](./Grape-Juice.md)
 - [Guardian Cookies](./Guardian-Cookies.md)
 - [Lamb Cider Casserole](./Lamb-Cider-Casserole.md)
 - [Lasagne](./Lasagne.md)
