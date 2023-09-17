@@ -55,7 +55,7 @@ Make two batches of this:
 1. Add the flour and stir to form a paste, then let cook for 1 minute while stirring
 1. _Slowly_ add parts of the milk and whisk in; whisk constantly to keep the mix smooth.  Once you've added half the milk then mix until it starts to thicken
 1. Add the rest of the milk and the parmesan
-1. Continue to stir and mix until it starts to thicken, enough to cover the spoon.  Stop and remove from the heat
+1. Continue to stir and mix until it starts to thicken, enough to cover the spoon.  This should happen at about 80C  Stop and remove from the heat
 
 ### Pasta sheets
 
