@@ -15,6 +15,7 @@ Collection of recipes; some from friends, some from books, some from the interne
 - [Chicken Caesar Salad](./Chicken-Caesar-Salad.md)
 - [Chicken in BBQ Sauce](./Chicken-in-BBQ-Sauce.md)
 - [Chimichurri Steaks](./Chimichurri-Steaks.md)
+- [Dumplings](./Dumplings.md)
 - [General Tso Chicken](./General-Tso-Chicken.md)
 - [Grape-Juice](./Grape-Juice.md)
 - [Guardian Cookies](./Guardian-Cookies.md)
