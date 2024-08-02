@@ -32,6 +32,7 @@ Collection of recipes; some from friends, some from books, some from the interne
 - [Pasta a la Front](./Pasta-a-la-Front.md)
 - [Poha](./Poha.md)
 - [Preserved Lemons](./Preserved-Lemons.md)
+- [Ramen](./Ramen.md)
 - [Slow Cook Beef Stew](./Slow-Cook-Beef-Stew.md)
 - [Slow Cook Duck and Date Tagine](./Slow-Cook-Duck-and-Date-Tagine.md)
 - [Spanish Chicken](./Spanish-Chicken.md)
