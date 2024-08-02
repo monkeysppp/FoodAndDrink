@@ -1,7 +1,7 @@
 [Home](../README.md) / [Recipes](README.md)
 
 # Ramen noodles
-https://www.youtube.com/watch?v=7thqO2kBcbI
+[https://www.youtube.com/watch?v=7thqO2kBcbI](https://www.youtube.com/watch?v=7thqO2kBcbI)
 
 Serves 1
 
